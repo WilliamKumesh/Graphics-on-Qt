@@ -1,0 +1,19 @@
+# Материалы
+mtllib chessboard.mtl 
+
+# Светлая клетка
+newmtl LightSquare
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.8 0.8 0.8
+Ns 100
+illum 2
+
+# Темная клетка
+newmtl DarkSquare
+Ka 0.1 0.1 0.1
+Kd 0.25 0.25 0.25
+Ks 0.4 0.4 0.4
+d=0.5
+Ns 50
+illum 2

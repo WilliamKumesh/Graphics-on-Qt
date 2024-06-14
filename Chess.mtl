@@ -1,0 +1,94 @@
+# Blender 3.3.5 MTL File: 'Chess.blend'
+# www.blender.org
+
+newmtl Artificial_Marble_4
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Marble09_col.jpg
+map_Ns Marble09_rgh.jpg
+map_Bump -bm 1.000000 Marble09_nrm.jpg
+
+newmtl Base_Marble
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Marble04_4K_BaseColor.png
+map_Ns Marble04_4K_Roughness.png
+map_Bump -bm 1.000000 Marble04_4K_Normal.png
+
+newmtl Black_Marble
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Marble009_4K_Color.jpg
+map_Ns Marble009_4K_Roughness.jpg
+
+newmtl Grey
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.022168 0.022168 0.022168
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Marble023_4K_Color.jpg
+map_Ns Marble023_4K_Roughness.jpg
+
+newmtl Pieces
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Procedural_Dark_Brown_Marble_Tiles
+Ns 911.361450
+Ka 1.000000 1.000000 1.000000
+Kd 0.086469 0.086469 0.086469
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl White_Squares
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.531250 0.531250 0.531250
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Marble012_4K_Roughness.jpg

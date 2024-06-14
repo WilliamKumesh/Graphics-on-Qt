@@ -1,0 +1,24 @@
+#  MTL file for a chess king model
+newmtl King_Gold
+
+# Ambient color (optional)
+Ka 0.1 0.1 0.1
+
+# Diffuse color (main color)
+Kd 0.8 0.6 0.2
+
+# Specular color (highlight color)
+Ks 0.8 0.8 0.8
+
+# Specular exponent (shininess)
+Ns 100
+
+# Transparency (0.0 fully opaque, 1.0 fully transparent)
+d 1.0
+
+# Illumination model (2: Phong)
+illum 2
+
+# Texture maps (optional)
+# map_Kd king_gold_texture.jpg  # Diffuse texture
+# map_Bump king_gold_bump.jpg # Bump map
